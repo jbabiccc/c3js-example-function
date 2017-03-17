@@ -1,0 +1,25 @@
+.zone {
+	/*max-height: 300px;*/
+	margin-top: 20px;
+}
+.chart {
+	height: 250px;
+	border-style: dashed;
+	border-width: 2px;
+	border-radius: 8px;
+	border-color: #e2e2e2;
+	padding: 0px;
+}
+
+.chart.noborders {
+	border-width: 0px;
+}
+
+.content {
+	padding: 30px;
+}
+
+/* Footer */
+.container.footer {
+	margin-top: 20px;
+}
