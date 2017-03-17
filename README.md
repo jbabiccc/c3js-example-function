@@ -1,6 +1,6 @@
 # c3js Example w/function
 
-If you are looking to get started with charting adn javascript, download the examples of the c3js.org charting components. 
+If you are looking to get started with charting and javascript, download the examples of the c3js.org charting components. 
 
 ## Getting Started
 
