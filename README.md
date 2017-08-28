@@ -33,12 +33,14 @@ function createChart(target, type, data) {
 ```
 
 ## Resources
-bindto = http://c3js.org/reference.html#bindto
-data = http://c3js.org/reference.html#data-url
-type = http://c3js.org/reference.html#data-type
+* bindto = http://c3js.org/reference.html#bindto
+* data = http://c3js.org/reference.html#data-url
+* type = http://c3js.org/reference.html#data-type
 
 for dynamic charts you can also access the window object for the 'chart' variable using the 'target'
-window[target] ( var chart becomes var window[target] )
+window[target] 
+
+( var chart becomes var window[target] )
 
 ## Built With
 
