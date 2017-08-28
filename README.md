@@ -10,7 +10,7 @@ To get started, download the files and unzip to the root of your project. Run th
 
 All the prerequisites are included in the /js and /css folders.
 
-### Installing
+### Usage
 
 I recommend using a local web server. For MacOS or Windows, I use MAMP. The free version works fine. I do recommend the pro version if you are running a number of local test sites. 
 
