@@ -15,16 +15,21 @@ All the prerequisites are included in the /js and /css folders.
 I recommend using a local web server. For MacOS or Windows, I use MAMP. The free version works fine. I do recommend the pro version if you are running a number of local test sites. 
 
 ```
-//simple function
-createChart(target, type, data);
+//data 
+var data1 = ['data1', 230, 190, 300, 500, 300, 400];
 
- var chart = c3.generate({
-    bindto: target,
-    data: {
-        columns: data,
-        type: type
-    }
-});
+//simple function
+createChart("#chart", "line", data1);
+
+function createChart(target, type, data) {
+  var chart = c3.generate({
+     bindto: target,
+     data: {
+         columns: data,
+         type: type
+     }
+  });
+}
 ```
 
 ## Built With
