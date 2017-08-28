@@ -4,7 +4,7 @@ If you are looking to get started with charting and javascript, download the exa
 
 ## Getting Started
 
-TO get started, download the files and unzip to the root of your project. Run the index.html file and see the 6 examples of different charts. Line charts, pie charts, area charts, spline charts, bar charts and stacked bar charts.
+To get started, download the files and unzip to the root of your project. Run the index.html file and see the 6 examples of different charts. Line charts, pie charts, area charts, spline charts, bar charts and stacked bar charts.
 
 ### Prerequisites
 
